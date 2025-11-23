@@ -24,14 +24,6 @@ jobs:
           server-dir: /
           exclude: |
             **/.git*
-            **/.git*/**
             **/node_modules/**
-            **/bootstrap/**
-            **/database/**
-            **/public/**
-            **/storage/**
-            **/stubs/**
-            **/tests/**
-            **/vendor/**
-            **.env
+           
 
